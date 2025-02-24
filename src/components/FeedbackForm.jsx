@@ -9,10 +9,10 @@ const FeedbackForm = () => {
   const sendFeedback = (data) => {
     emailjs
       .sendForm(
-        "service_d348qgq",  // Replace with your EmailJS Service ID
-        "template_u70rlyr", // Replace with your EmailJS Template ID
+        "service_u1todwb", 
+        "template_u70rlyr",
         form.current,
-        "Mpz_bz4-MyLTr2ASg"   // Replace with your EmailJS Public Key
+        "Mpz_bz4-MyLTr2ASg"
       )
       .then(() => {
         alert("Feedback sent successfully!");
