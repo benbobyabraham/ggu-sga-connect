@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://benbobyabraham.github.io//ggu_campus_feedback",
+  "homepage": "https://ggusocial.com/ggu-sga-connect/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

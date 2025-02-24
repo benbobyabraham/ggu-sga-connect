@@ -27,7 +27,7 @@ The goal of this project is to create a **safe and accessible** way for students
 ### 1️⃣ Clone the Repository  
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/ggu-anonymous-feedback.git
+git clone https://github.com/benbobyabraham/ggu-sga-connect.git
 cd ggu-anonymous-feedback
 ```
 
@@ -66,7 +66,7 @@ npm run dev
 2. Add the following lines to `package.json`:
 
    ```json
-   "homepage": "https://YOUR_GITHUB_USERNAME.github.io/ggu-anonymous-feedback",
+   "homepage": "https://ggusocial.com/ggu-sga-connect/",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d dist"
@@ -122,4 +122,4 @@ This project is licensed under the **MIT License**.
 
 Submit them through the **GGU Anonymous Feedback Portal** or reach out to SGA directly at **sga@ggu.edu**.  
 
-📌 **Live Demo**: *[Link to GitHub Pages deployment]*  
+📌 **Live Demo**: *[[Link to GitHub Pages deployment](https://ggusocial.com/ggu-sga-connect/)]*  
