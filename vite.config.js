@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/ggu-sga-connect/",  // Change to your repo name
+  base: "/",  // Change to your repo name
 });
