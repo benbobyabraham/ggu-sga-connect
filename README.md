@@ -66,7 +66,7 @@ npm run dev
 2. Add the following lines to `package.json`:
 
    ```json
-   "homepage": "https://ggusocial.com/ggu-sga-connect/",
+   "homepage": "https://ggusocial.com/",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d dist"
@@ -122,4 +122,4 @@ This project is licensed under the **MIT License**.
 
 Submit them through the **GGU Anonymous Feedback Portal** or reach out to SGA directly at **sga@ggu.edu**.  
 
-📌 **Live Demo**: *[[Link to GitHub Pages deployment](https://ggusocial.com/ggu-sga-connect/)]*  
+📌 **Live Demo**: *[[Link to GitHub Pages deployment](https://ggusocial.com/)]*  
