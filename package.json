@@ -13,10 +13,14 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@emailjs/browser": "^4.4.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-hook-form": "^7.54.2"
+    "@emailjs/browser": "^4.3.3",
+    "@headlessui/react": "^1.7.19",
+    "@heroicons/react": "^2.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.51.0",
+    "react-hot-toast": "^2.5.2",
+    "react-textarea-autosize": "^8.5.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
